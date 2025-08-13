@@ -25,13 +25,9 @@ Essential tools to monitor system performance.
   ```bash
   apt install glances
 
-- **dstat** – versatile resource statistics
-  ```bash
-  apt install dstat
-
 - **vmstat** – memory, CPU, I/O statistics
   ```bash
-  apt install vmstat
+  apt install procps
 
 ---
 
@@ -39,4 +35,4 @@ Essential tools to monitor system performance.
 
 Finally we have:  
 ```bash
-apt -y install htop iotop iftop sysstat glances dstat vmstat
+apt -y install htop iotop iftop sysstat glances procps

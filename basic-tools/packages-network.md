@@ -13,17 +13,13 @@ Tools for networking and troubleshooting:
   ```bash
   apt install iproute2
 
-- **dnsutils** – dig, nslookup  
+- **bind9-dnsutils** – dig, nslookup  
   ```bash
-  apt install dnsutils
+  apt install bind9-dnsutils
 
 - **traceroute** – trace network path  
   ```bash
   apt install traceroute
-
-- **nmap** – network scanner  
-  ```bash
-  apt install nmap
 
 - **tcpdump** – packet capture  
   ```bash
@@ -35,4 +31,4 @@ Tools for networking and troubleshooting:
 
 Finally we have:  
 ```bash
-apt -y install net-tools iproute2 dnsutils traceroute nmap tcpdump
+apt -y install net-tools iproute2 bind9-dnsutils traceroute tcpdump
