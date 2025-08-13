@@ -1,6 +1,9 @@
 # Security & Firewall
 
 Basic security and firewall tools:
+> **Note:** All installation commands require **root access**.
+
+## Tools
 
 - **firewalld** – firewall management  
   ```bash

@@ -1,6 +1,9 @@
 # Base Packages
 
 Essential packages to get started with a Debian server:
+> **Note:** All installation commands require **root access**.
+
+## Tools
 
 - **vim** – text editor  
   ```bash

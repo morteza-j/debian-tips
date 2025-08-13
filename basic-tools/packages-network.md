@@ -1,6 +1,9 @@
 # Networking Tools
 
 Tools for networking and troubleshooting:
+> **Note:** All installation commands require **root access**.
+
+## Tools
 
 - **net-tools** – ifconfig, netstat, etc.  
   ```bash
