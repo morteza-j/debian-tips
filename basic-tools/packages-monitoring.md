@@ -25,7 +25,7 @@ Essential tools to monitor system performance.
   ```bash
   apt install glances
 
-- **vmstat** – memory, CPU, I/O statistics
+- **procps** – memory, CPU, I/O statistics
   ```bash
   apt install procps
 
