@@ -9,6 +9,6 @@ This repository provides categorized essential packages for Debian Stable server
 - [Base Packages](packages-base.md)
 - [Networking Tools](packages-network.md)
 - [Security & Firewall](packages-security.md)
-- [Utilities](packages-utils.md)
+- [Monitoring](packages-monitoring.md)
 
 Each section lists packages with installation commands.
